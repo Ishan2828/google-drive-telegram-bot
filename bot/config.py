@@ -6,7 +6,7 @@ class config:
     SUDO_USERS = "800444806" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/u1-RMpZ8AzI1YzNl"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
+    G_DRIVE_CLIENT_ID = "0ACa9HrwsZplkUk9PVA"
     G_DRIVE_CLIENT_SECRET = ""
 
 
